@@ -10,7 +10,7 @@
 
 </div>
 
-[SVAR React DataGrid](https://svar.dev/react/datagrid/) is a ready-to-use component that helps you integrate powerful, feature-rich and lightning-fast data tables into React apps. Designed to handle large datasets efficiently, it supports virtual scrolling, inline editing, sorting, filtering, and full customization to fit complex project needs.
+[SVAR React DataGrid](https://svar.dev/react/datagrid/) is a ready-to-use component that helps you integrate powerful, feature-rich and lightning-fast data tables into React apps. It efficiently handles large datasets and supports virtual scrolling, in-cell editing, sorting, filtering, TypeScript, and full customization for complex projects.
 
 <div align="center">
   <img src="https://svar.dev/images/github/github-grid.png" alt="SVAR React DataGrid - Examples" width="700">
@@ -37,6 +37,8 @@
 -   RestDataProvider for easy backend data binding
 -   Dark and light skins
 -   Easy customization with CSS
+-   TypeScript support
+-   React 18 and 19 compatible
 
 ### :hammer_and_wrench: How to Use
 
