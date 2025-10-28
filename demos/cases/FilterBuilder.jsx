@@ -3,7 +3,7 @@ import {
   FilterBuilder as FilterBuilderComponent,
   createFilter,
   getOptions,
-} from '@wx/react-filter';
+} from '@svar-ui/react-filter';
 import { getData } from '../data';
 import { Grid } from '../../src';
 

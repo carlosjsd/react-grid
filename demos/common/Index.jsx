@@ -81,7 +81,7 @@ function DemoExplorerContent({
               </a>
               <div className="wx-demos separator"></div>
               <a
-                href={`https://svar.dev/react/${productTag}/`}
+                href={`https://svar.dev/react/datagrid/`}
                 target="_blank"
                 rel="noopener noreferrer"
               >

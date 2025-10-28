@@ -40,7 +40,7 @@ import SizeToContent from './cases/SizeToContent.jsx';
 import Sort from './cases/Sort.jsx';
 import StaticData from './cases/StaticData.jsx';
 import Styling from './cases/Styling.jsx';
-// import TableAPI from "./cases/TableAPI.jsx";
+import TableAPI from './cases/TableAPI.jsx';
 import TableHeaderFooterSpans from './cases/TableHeaderFooterSpans.jsx';
 import TableHeaderFooterVertical from './cases/TableHeaderFooterVertical.jsx';
 import Tooltips from './cases/Tooltips.jsx';
@@ -219,7 +219,7 @@ export const links = [
   ['/treetable/:skin', 'Tree structure', TreeTable, 'TreeTable'],
 
 
-  // ["/api/:skin", "API calls", TableAPI, "TableAPI"],
+  ['/api/:skin', 'API calls', TableAPI, 'TableAPI'],
   ['/events/:skin', 'Event handling', EventHandling, 'EventHandling'],
   ['/scroll/:skin', 'Scroll by API', ScrollTable, 'ScrollTable'],
   ['/print/:skin', 'Print', Print, 'Print'],
